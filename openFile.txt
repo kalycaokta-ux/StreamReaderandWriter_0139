@@ -1,0 +1,1 @@
+cd "d:\Pemrograman Dasar\Teori_14_Pemdas\" ; if ($?) { g++ ManualException.cpp -o ManualException } ; if ($?) { .\ManualException }
