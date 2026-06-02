@@ -56,4 +56,5 @@ int main()
     }
     //kondisi file tidak ada
     else cout << "enable to open file";
+    return 0;
 }
